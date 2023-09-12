@@ -1,6 +1,6 @@
-# Serverless Event-driven E-commerce Microservices
+# Microsserviços de e-commerce orientados a serveless-events
 
-Este é um projeto de comércio eletrônico baseado em eventos sem servidor para desenvolvimento TypeScript com CDK. O arquivo `cdk.json` informa ao CDK Toolkit como executar o seu aplicativo.
+Este é um projeto de e-commerce orientados a serveless-events para desenvolvimento TypeScript com CDK. O arquivo `cdk.json` informa ao CDK Toolkit como executar o seu aplicativo.
 
 ## O que está incluído neste repositório
 Seguiremos a arquitetura de referência, que é um **aplicativo de comércio eletrônico sem servidor** do mundo real e inclui;
